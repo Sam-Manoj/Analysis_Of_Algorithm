@@ -5,6 +5,19 @@
 2) An element which is to be 'inserted' in this sorted sub-list, has to find its appropriate place and then it has to be inserted there. Hence the name, 
    **insertion sort**.
 
+## Algorithm
+**STEP 1** − If it is the first element, it is already sorted. return 1;
+
+**STEP 2** − Pick next element
+
+**STEP 3** − Compare with all elements in the sorted sub-list
+
+**STEP 4** − Shift all the elements in the sorted sub-list that is greater than the value to be sorted
+
+**STEP 5** − Insert the value
+
+**STEP 6** − Repeat until list is sorted
+
 
 ## Pseudocode
 ```
