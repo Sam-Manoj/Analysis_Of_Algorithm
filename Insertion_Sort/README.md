@@ -1,7 +1,10 @@
 # Insertion Sort
 
 ## Introduction
-Insertion Sort is a simple and efficient sorting algorithm that works similarly to how card players sort a hand of cards. The array is conceptually divided into two parts: a **sorted** and an **unsorted** portion. In each pass, the first element of the unsorted part is picked, transferred to the sorted sublist, and inserted at the appropriate position.
+1) Insertion sort is a very simple method to sort numbers in an ascending or descending order. This method follows the **incremental method**.
+2) An element which is to be 'inserted' in this sorted sub-list, has to find its appropriate place and then it has to be inserted there. Hence the name, 
+   **insertion sort**.
+
 
 ## Pseudocode
 ```
