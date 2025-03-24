@@ -25,8 +25,8 @@ for i← 1 to n-1 do
 ```
 # Time Complexity
 
-Best-case: **O(n^2)** , best case occurs when the array is already sorted. (where n is the number of integers in an array)
+Best-case: **O(n²)** , best case occurs when the array is already sorted. (where n is the number of integers in an array)
 
- Average-case: **O(n^2)**, the average case arises when the elements of the array are in a disordered or random order, without a clear ascending or descending pattern.
+ Average-case: **O(n²)**, the average case arises when the elements of the array are in a disordered or random order, without a clear ascending or descending pattern.
 
- Worst-case: **O(n^2)**, The worst-case scenario arises when we need to sort an array in ascending order, but the array is initially in descending order.
+ Worst-case: **O(n²)**, The worst-case scenario arises when we need to sort an array in ascending order, but the array is initially in descending order.
